@@ -6,7 +6,7 @@ I can write Python and C#(Unity). I usually make some softwares using Python.
 - 🤔 I’m looking for help with experienced engineer like you.
 - 📫 How to reach me:
   - e-mail: rikeidanshi@duck.com
-  - 𝕏: [rikeidanshi](https://x.com/rikeidansh22373)
+  - 𝕏: [Ζ# tech & stationery](https://x.com/rikeidansh22373)
 - 😄 Pronouns: (rikei) danshi
 
 ## My skill tree  
