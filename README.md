@@ -1,3 +1,4 @@
+**Announcement: My GitHub username has changed from "Rikeidanshi" to Ζ# (Zeta-Sharp). The reason for this change is that my old name "rikeidanshi" is common noun and I thought that is not suitable for a unique name. Existing links will automatically redirect to the new username. However, for long-term reliability, please consider updating local repository settings, bookmarks and any other saved links to the new URLs. Thank you.**
 ## Hi! I'm newbie programmer Ζ# (Zeta-Sharp).  
 I can write Python and C#(Unity). I usually make some softwares using Python.
 
